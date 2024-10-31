@@ -120,6 +120,7 @@ config = {
         // our nodes
         "12D3KooWGmhcKFJAP9sUQXuV9WAw3CpUQyD1pU66KZZMv2DoGnKy", 
         "12D3KooWMLjvVhjqatAk3mnsMLB3UDUvxKG6xwW8i3vbgjDZjpx4",
+        "12D3KooWEokMCLoDPk6coC7NUCaowtT1RiTJ67tophZ6eTjnZt7t",
         
     ],
 
