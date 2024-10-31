@@ -117,6 +117,10 @@ config = {
         "12D3KooWNsC2vzuHdKDfSM6xnMZwMjWK8zZCYHyLXuhRMeVRebGK",
         // @neynar
         "12D3KooWH9ojvuodLfc6bVyWArFaVAPgaKFiLFqH4Em48KQpSfwL",
+        // our nodes
+        "12D3KooWGmhcKFJAP9sUQXuV9WAw3CpUQyD1pU66KZZMv2DoGnKy", 
+        "12D3KooWMLjvVhjqatAk3mnsMLB3UDUvxKG6xwW8i3vbgjDZjpx4",
+        
     ],
 
     // Minimum version of the Hub. 
